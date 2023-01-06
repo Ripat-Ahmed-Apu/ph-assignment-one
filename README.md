@@ -1,1 +1,1 @@
-![Algorithm schema](./images/schema.jpg)
+![Algorithm schema](https://ripat-ahmed-apu.github.io/ph-assignment-one/)
