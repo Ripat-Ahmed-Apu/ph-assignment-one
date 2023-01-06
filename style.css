@@ -1,0 +1,70 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    padding-left: 100px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.flexible-area {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+}
+
+.middle {
+    text-align: center;
+}
+
+#mission {
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
+#vission {
+    background-color: coral;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+#goals {
+    background-color: darkcyan;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.back-color {
+    color: blue;
+}
+
+footer {
+    text-align: center;
+    background-color: fuchsia;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
